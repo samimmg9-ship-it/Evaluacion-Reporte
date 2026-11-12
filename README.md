@@ -1,3 +1,3 @@
 # Evaluacion-Reporte
 
-# Integrantes; Sammy Sanchez, Mabel Rodriguez, Evelyn Pacheco
+# Integrantes: Sammy Sanchez, Mabel Rodriguez, Evelyn Pacheco
